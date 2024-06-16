@@ -19,16 +19,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Part 1 (Create Virtual Machine in Azure)
-Create a Resource Group
-Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
-When creating the VM, allow it to create a new Virtual Network (Vnet)
-
-- install and download software configuration 
- <img width="244" alt="image" src="https://github.com/rmowatt21/osticket-prereqs-/assets/98135951/0af72453-2434-4935-9cf8-713f4c166773">
-
-- Post installation setup (ticketing system) configure setup for admin and agent 
-- Tickets and Ticket Lifecycle 
+- Create VM in Azure
+- Install and download software configuration 
+- Open IIS as an Admin.Register PHP from the IIS  
+- Install osticket (enable php configurations)
 
 <h2>Installation Steps</h2>
 
