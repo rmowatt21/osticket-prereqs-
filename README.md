@@ -46,12 +46,20 @@ The installation files that is being used to create a ticketing system. After we
 
 Open IIS as an Admin, Register PHP from within IIS. Once we configure and finish with this section of the installation we can continue to finally installing the OS-ticket
 
-
 <img width="500" src="https://github.com/rmowatt21/osticket-prereqs-/assets/98135951/80b3c65f-67e5-4934-bc94-6978f91cc6d7">
-
 
 </p>
 <p>
 installing the os-ticketing system there will be a few extensions that aren't installed when the users first installs the software. The user needs to enable the extensions which can be found in the IIS(internet information services manager). 
 </p>
 <br />
+
+<img width="500" alt="image" src="https://github.com/rmowatt21/osticket-prereqs-/assets/98135951/dcca6e16-b4df-48fc-9529-43e19155d9af">
+
+These are the configurations that need to be enabled in OS-ticketing system in order to fully assemble the OS-ticketing system. 
+
+<img width="400" alt="image" src="https://github.com/rmowatt21/osticket-prereqs-/assets/98135951/9eb2fdfd-3816-4929-ae3c-64ec3d186549">
+<img width="400" alt="image" src="https://github.com/rmowatt21/osticket-prereqs-/assets/98135951/19f47270-ae2a-457b-87e9-494f5f3af68b">
+
+after the configuration is complete and all the enabled configurations are done the next step would be to continue setting up osticket using the username and password.
+
