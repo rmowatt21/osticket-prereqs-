@@ -62,4 +62,4 @@ These are the configurations that need to be enabled in OS-ticketing system in o
 <img width="400" alt="image" src="https://github.com/rmowatt21/osticket-prereqs-/assets/98135951/19f47270-ae2a-457b-87e9-494f5f3af68b">
 
 after the configuration is complete and all the enabled configurations are done the next step would be to continue setting up osticket using the username and password.
-
+Setting up the ticket system should be complete and ready 
